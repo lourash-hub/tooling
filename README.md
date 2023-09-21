@@ -74,4 +74,4 @@ Default web root:
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
 testing jenkins
-
+testing for the Configure job Jenkins to copy files to NFS server via SSH
